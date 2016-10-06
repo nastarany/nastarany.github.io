@@ -3,8 +3,9 @@ layout: post
 title: Githhub Collaboration 
 ---
 
-i am amazing
+"You are so khar"
 
+>>>>>>> 8bdde946dd9f1e4d2e4c85a4d624dfd5f21cb16b
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
